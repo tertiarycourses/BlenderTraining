@@ -1,5 +1,5 @@
 # Blender Essential Training
-## by [Tertiary Infotech Pte. Ltd] (https://www.tertiarycourses.com.sg/)
+## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Blender Essential Training](https://www.tertiarycourses.com.sg/blender-essential-training.html) course. 
 
